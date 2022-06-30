@@ -1,6 +1,6 @@
 import random
 
-length = input("How long is your password : ")
+length = input("How many characters does your password need : ")
 
 letters = "ABCEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%&*"
 
